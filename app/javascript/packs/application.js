@@ -14,7 +14,7 @@ ActiveStorage.start()
 
 import 'bootstrap'
 import 'bootstrap/dist/css/bootstrap.css'
-
+console.log("!")
 // import www from 'sweetalert2'
 
 document.addEventListener("DOMContentLoaded", () => {
@@ -55,7 +55,6 @@ document.addEventListener("DOMContentLoaded", () => {
 // test()
 
 // console.log("a:", a)
-
 
 
 // function 裡面看的到外面的變數
